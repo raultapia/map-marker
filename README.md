@@ -20,5 +20,7 @@ Use FILENAME in PATHNAME:
 python3 map-marker.py <PATHNAME/FILENAME>
 ```
 
+![example](https://raw.githubusercontent.com/rautaplop/map-marker/master/img/example.png)
+
 ## 📝 Copyright and license
 Copyright © 2020, [rautaplop](https://github.com/rautaplop). Released under [GNU GPLv3](LICENSE) license.
