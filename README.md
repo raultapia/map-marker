@@ -15,7 +15,7 @@ Use default file (sites/my_sites):
 ```
 python3 map-marker.py
 ```
-Use <FILENAME> in <PATHNAME>:
+Use FILENAME in PATHNAME:
 ```
 python3 map-marker.py <PATHNAME/FILENAME>
 ```
