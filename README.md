@@ -1,7 +1,7 @@
 # Map Marker
-[![Latest Version](https://img.shields.io/github/release/rautaplop/map-marker)](https://github.com/rautaplop/map-marker/releases)
-[![License       ](https://img.shields.io/github/license/rautaplop/map-marker)](LICENSE)
-[![Size          ](https://img.shields.io/github/repo-size/rautaplop/map-marker)](README.md)
+[![Latest Version](https://img.shields.io/github/release/raultapia/map-marker)](https://github.com/raultapia/map-marker/releases)
+[![License       ](https://img.shields.io/github/license/raultapia/map-marker)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/raultapia/map-marker)](README.md)
 
 Awesome map marker.
 
@@ -20,7 +20,7 @@ Use FILENAME in PATHNAME:
 python3 map-marker.py <PATHNAME/FILENAME>
 ```
 
-![example](https://raw.githubusercontent.com/rautaplop/map-marker/master/img/example.png)
+![example](https://raw.githubusercontent.com/raultapia/map-marker/master/img/example.png)
 
 ## 📝 Copyright and license
-Copyright © 2020, [rautaplop](https://github.com/rautaplop). Released under [GNU GPLv3](LICENSE) license.
+Copyright © 2020, [raultapia](https://github.com/raultapia). Released under [GNU GPLv3](LICENSE) license.
